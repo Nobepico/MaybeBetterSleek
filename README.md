@@ -14,7 +14,8 @@ Besides the new scheme, the others were removed as they wouldn't fit the changes
 
 ## Manual Install
 Create a folder in Spicetify themes path and add `user.css` and `color.ini` to it. <br/>
-On windows, the path usually is `%APPDATA%/spicetify/Themes`.
+On windows, the path usually is `%APPDATA%/spicetify/Themes`.<br/>
+If you're on Linux, I assume you can find out the path by yourself.
 
 To apply:
 ```
