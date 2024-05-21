@@ -19,5 +19,5 @@ If you're on Linux, I assume you can find out the path by yourself.
 
 To apply:
 ```
-spicetify config current_theme \[NAME OF FOLDER IN THEMES] color_scheme Samurized
+spicetify config current_theme [NAME OF FOLDER IN THEMES] color_scheme Samurized
 ```
