@@ -10,7 +10,7 @@ Besides the new scheme, the others were removed as they wouldn't fit the changes
 | :-------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
 |                     home                      |                      album                      |                     playlist                      |
 | ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/861c8940-acf5-4e3c-aec3-1774d892e0b7) | ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/54dbde84-3d45-4f22-8d29-d32f91f4cad7) |      ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/e3b9b46f-e040-4259-bc98-d60e8b91330b)      |
-|                    podcast                    |                     profile                     |                   better lyrics                   |
+|                    podcast                    |                     profile                     |                    lyrics plus                    |
 
 ## Manual Install
 Create a folder in Spicetify themes path and add `user.css` and `color.ini` to it. <br/>
