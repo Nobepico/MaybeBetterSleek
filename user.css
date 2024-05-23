@@ -17,6 +17,11 @@ body .main-trackList-active .main-trackList-rowDuration {
     color: var(--text-bright-accent) !important;
 }
 
+/* name of podcast currently playing */
+.T9iBYqbERZHdwDl0U2tC.DS4BYgmEO7Wy5RutUt60 .N2Fkohxhgu1_QAWUDc4O {
+  color: var(--spice-text-bright-accent);
+}
+
 /* 
 -------------
 TOPBAR 
