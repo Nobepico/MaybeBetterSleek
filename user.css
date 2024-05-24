@@ -3,9 +3,16 @@
   --spice-highlight: var(--spice-main-secondary);
   --spice-highlight-elevated: var(--spice-main-secondary);
   --spice-rgb-selected-row: var(--spice-text);
+  --text-bright-accent: var(--spice-text-bright-accent);
 }
 
+/* overall tweaks */
+.encore-dark-theme,.encore-dark-theme .encore-base-set {
+  --text-bright-accent: var(--spice-text-bright-accent);
+  --text-positive: var(--spice-text-bright-accent);
+}
 
+/* i dont remember what this does, probablly has something to do with sidebar icons */
 .TypeElement-type-ballad-textBrightAccent {
   color: var(--spice-text-bright-accent);
 }
@@ -20,6 +27,47 @@ body .main-trackList-active .main-trackList-rowDuration {
 /* name of podcast currently playing */
 .T9iBYqbERZHdwDl0U2tC.DS4BYgmEO7Wy5RutUt60 .N2Fkohxhgu1_QAWUDc4O {
   color: var(--spice-text-bright-accent);
+}
+
+/* fix sidebar icon color */
+.Svg-img-icon-xsmall-textBrightAccent {
+  fill: var(--spice-text-bright-accent);
+}
+
+/* remove sidebar gap */
+.main-navBar-mainNav {
+  gap: 0;
+}
+
+/* fix distance between elements around gap */
+.main-yourLibraryX-navItems {
+    padding: 8px 12px 6px;
+}
+
+/* fix Marketplace tab indentation in sidebar */
+.main-yourLibraryX-entryPoints #spicetify-show-list,
+.main-yourLibraryX-entryPoints #spicetify-hidden-list {
+    padding: 0 22px;
+}
+
+/* fix color of Marketplace icon in sidebar */
+svg.Svg-sc-ytk21e-0.Svg-img-icon-medium {
+  color: var(--spice-nav-active-text);
+}
+
+/* adjust Marketplace text indentation in sidebar */
+.TypeElement-type-balladBold {
+  margin-inline-start: 20px;
+}
+
+/* adjust Your Library indentation to match Marketplace in sidebar  */
+.Wrapper-medium-leading {
+  margin-inline-end: 20px;
+}
+
+/* fix color of icons like playlist play button */
+.Svg-img-icon-medium {
+  fill: var(--spice-nav-active-text);
 }
 
 /* 
