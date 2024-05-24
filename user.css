@@ -18,9 +18,9 @@
 }
 
 /* edit song highlight in playlist/album */
-body .main-trackList-active .main-trackList-rowSectionVariable a,
-body .main-trackList-active .main-trackList-rowSectionVariable span,
-body .main-trackList-active .main-trackList-rowDuration {
+.main-trackList-active .main-trackList-rowSectionVariable a,
+.main-trackList-active .main-trackList-rowSectionVariable span,
+.main-trackList-active .main-trackList-rowDuration {
     color: var(--text-bright-accent) !important;
 }
 
@@ -691,12 +691,7 @@ TRACKS GRID
 .main-trackList-active .main-type-mesto,
 .main-trackList-active .main-trackList-rowSubTitle,
 .main-trackList-active .main-trackList-rowSubTitle a,
-.main-trackList-active .main-trackList-rowMarker,
-.main-trackList-active .main-trackList-rowSectionVariable,
-.main-trackList-active .main-trackList-rowSectionVariable a,
-.main-trackList-active .main-trackList-rowSectionVariable span,
-.main-trackList-active .main-trackList-rowMarker,
-.main-trackList-active .main-trackList-rowDuration {
+.main-trackList-active .main-trackList-rowSectionVariable {
   color: var(--spice-button) !important;
 }
 
