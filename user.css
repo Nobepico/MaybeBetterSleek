@@ -696,7 +696,7 @@ TRACKS GRID
 }
 
 .main-trackList-active .main-tag-container {
-  background-color: var(--spice-button);
+  background-color: var(--spice-text-bright-accent);
 }
 
 /* When song is hovered/selected */
