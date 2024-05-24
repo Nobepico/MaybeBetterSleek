@@ -6,10 +6,17 @@ Besides the new scheme, the others were removed as they wouldn't fit the changes
 
 ## Screenshots
 #### Samurized
-|   ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/1f6e1c0e-975d-473c-a50c-80013b29c1e8)   |   ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/776255ce-c310-46f9-b7ec-24adfd2f2156)   | ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/69d9d15c-8b94-47f8-a09d-a06529317fff) |
+| ![image](./images/samurized_home.png)         | ![image](./images/samurized_album.png)          | ![image](./images/samurized_playlist.png)         |
 | :-------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
 |                     home                      |                      album                      |                     playlist                      |
-| ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/861c8940-acf5-4e3c-aec3-1774d892e0b7) | ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/54dbde84-3d45-4f22-8d29-d32f91f4cad7) |      ![image](https://github.com/Nobepico/MaybeBetterSleek/assets/133757705/e3b9b46f-e040-4259-bc98-d60e8b91330b)      |
+| ![image](./images/samurized_podcast.png)      | ![image](./images/samurized_profile.png)        | ![image](./images/samurized_lyricsplus.png)       |
+|                    podcast                    |                     profile                     |                    lyrics plus                    |
+
+#### Nord
+| ![image](./images/nord_home.png)              | ![image](./images/nord_album.png)               | ![image](./images/nord_playlist.png)              |
+| :-------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
+|                     home                      |                      album                      |                     playlist                      |
+| ![image](./images/nord_podcast.png)           | ![image](./images/nord_profile.png)             | ![image](./images/nord_lyricsplus.png)            |
 |                    podcast                    |                     profile                     |                    lyrics plus                    |
 
 ## Manual Install
