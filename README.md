@@ -19,6 +19,13 @@ Besides the new scheme, the others were removed as they wouldn't fit the changes
 | ![image](./images/nord_podcast.png)           | ![image](./images/nord_profile.png)             | ![image](./images/nord_lyricsplus.png)            |
 |                    podcast                    |                     profile                     |                    lyrics plus                    |
 
+#### Dracula
+| ![image](./images/dracula_home.png)           | ![image](./images/dracula_album.png)            | ![image](./images/dracula_playlist.png)           |
+| :-------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
+|                     home                      |                      album                      |                     playlist                      |
+| ![image](./images/dracula_podcast.png)        | ![image](./images/dracula_profile.png)          | ![image](./images/dracula_lyricsplus.png)         |
+|                    podcast                    |                     profile                     |                    lyrics plus                    |
+
 ## Manual Install
 Create a folder in Spicetify themes path and add `user.css` and `color.ini` to it. <br/>
 On windows, the path usually is `%APPDATA%/spicetify/Themes`.<br/>
