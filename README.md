@@ -1,9 +1,6 @@
 # MaybeBetterSleek
 A fork of [Sleek](https://github.com/spicetify/spicetify-themes/tree/master/Sleek) that should give slightly more customizability.
 
-Added a new scheme based on Samurai and Solarized.<br/>
-Besides the new scheme, the others were removed as they wouldn't fit the changes to `user.css` without tampering.
-
 ## Screenshots
 #### Samurized
 | ![image](./images/samurized_home.png)         | ![image](./images/samurized_album.png)          | ![image](./images/samurized_playlist.png)         |
