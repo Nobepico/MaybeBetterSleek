@@ -66,6 +66,11 @@ svg.Svg-sc-ytk21e-0.Svg-img-icon-medium {
   fill: var(--spice-nav-active-text);
 }
 
+/* fix volume bar fg color */
+.progress-bar {
+  --fg-color: var(--spice-playback-bar);
+}
+ 
 /* 
 -------------
 TOPBAR 
