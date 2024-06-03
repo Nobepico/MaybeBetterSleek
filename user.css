@@ -42,22 +42,18 @@
 /* fix distance between elements around gap */
 .main-yourLibraryX-navItems {
     padding: 8px 12px 6px;
+    margin: 0 0 -12px 0;
 }
 
-/* fix Marketplace tab indentation in sidebar */
+/* fix spacing of marketplace icon in sidebar */
 .main-yourLibraryX-entryPoints #spicetify-show-list,
 .main-yourLibraryX-entryPoints #spicetify-hidden-list {
-    padding: 0 22px;
+  margin: 0 0 10px 0;
 }
 
 /* fix color of Marketplace icon in sidebar */
 svg.Svg-sc-ytk21e-0.Svg-img-icon-medium {
   color: var(--spice-nav-active-text);
-}
-
-/* adjust Marketplace text indentation in sidebar */
-.TypeElement-type-balladBold {
-  margin-inline-start: 20px;
 }
 
 /* adjust Your Library indentation to match Marketplace in sidebar  */
