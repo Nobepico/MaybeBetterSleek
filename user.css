@@ -6,6 +6,28 @@
   --text-bright-accent: var(--spice-text-bright-accent);
 }
 
+/*
+hide recent searches in Search page
+.main-shelf-shelf[aria-label="Recent searches"] {
+  display: none;
+}
+*/
+
+/* remove sticky from sticky header */
+.main-home-filterChipsContainer {
+    position: unset !important;
+}
+
+/* hide orange thing when removing sticky header */
+.mjZrvVI3CxfHJXu7y0Lg {
+    opacity: 0 !important;
+}
+
+/* remove sticky from marketplace sticy header */
+.marketplace-header {
+  position: unset !important;
+}
+
 /* overall tweaks */
 .encore-dark-theme,.encore-dark-theme .encore-base-set {
   --text-bright-accent: var(--spice-text-bright-accent);
