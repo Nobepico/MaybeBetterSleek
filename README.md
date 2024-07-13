@@ -39,7 +39,12 @@ To apply:
 ```
 spicetify config current_theme [name of folder in themes dir] color_scheme Samurized
 ```
+
 To change the color scheme:
 ```
 spicetiy config color_scheme [name of color scheme]
 ```
+
+#### NOTE:
+Just a quick note because I only found the solution in a reddit thread and wanted to make it more accessible. </br>
+If you want the queue to be displayed on the sidepanel, you can enable `Enable queue on the right panel` in the `Experimental Features` tab.
