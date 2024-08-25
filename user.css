@@ -4,14 +4,13 @@
   --spice-highlight-elevated: var(--spice-main-secondary);
   --spice-rgb-selected-row: var(--spice-text);
   --text-bright-accent: var(--spice-text-bright-accent);
+  --background-highlight: var(--spice-text-bright-accent);
 }
 
-/*
-hide recent searches in Search page
-.main-shelf-shelf[aria-label="Recent searches"] {
-  display: none;
+/* fix equalizer */
+.x-settings-equalizerPanelInput {
+  background-color: transparent !important;
 }
-*/
 
 /* remove sticky from sticky header */
 .main-home-filterChipsContainer {
@@ -83,10 +82,21 @@ svg.Svg-sc-ytk21e-0.Svg-img-icon-medium {
   margin-inline-end: 20px;
 }
 
-/* fix color of icons like playlist play button */
+/* fix color of icons like playlist play button (maybe outdated) */
 .Svg-img-icon-medium {
   fill: var(--spice-nav-active-text);
 }
+
+/* color of playlist play button */
+.Button-buttonPrimary-useBrowserDefaultFocusStyle-data-is-icon-only .ButtonInner-sc-14ud5tc-0 {
+  background-color: var(--spice-button-active);
+}
+
+/* color of playlist play button on hover */
+.Button-buttonPrimary-useBrowserDefaultFocusStyle-data-is-icon-only:hover .ButtonInner-sc-14ud5tc-0 {
+  background-color: var(--spice-button);
+}
+
 
 /* fix volume bar fg color */
 .progress-bar {
